@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy Rafa 👋
 
-<!--
-**Rafa1575/Rafa1575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista Funcional con foco en **transformación digital y datos** en Oil & Gas.
+He trabajado integrando **telemetría** con **SQL Server** y tableros en **Power BI**.
+Hoy estoy cursando el **Máster en Desarrollo con IA (BIG school)** y reforzando flujo de trabajo con **Git/GitHub**.
 
-Here are some ideas to get you started:
+- 📡 Telemetría DAQ-SKID → ingesta en SQL Server + visualización en Power BI
+- 🧰 Stack frecuente: SQL Server · Power BI · Git/GitHub
+- 🎓 En curso: Máster en Desarrollo con IA
+- ✅ PR de práctica: [hello-git](https://github.com/Rafa1575/hello-git)
+- 📫 Contacto: **rafhas@gmail.com** · [LinkedIn](https://www.linkedin.com/in/rafael-alvarez-30385417)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
