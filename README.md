@@ -44,4 +44,4 @@ Formación en desarrollo con inteligencia artificial en BIG school y aplicación
 
 ## Contacto
 
-[Portfolio](https://alvarezrafael.com.ar/) · [LinkedIn](https://www.linkedin.com/in/rafael-alvarez-30385417) · [Email](mailto:rafhas@gmail.com)
+[Portfolio](https://alvarezrafael.com.ar/) · [LinkedIn](https://www.linkedin.com/in/rafael-alvarez-30385417) · [Email](mailto:rafaelalvarez@alvarezrafael.com.ar)
